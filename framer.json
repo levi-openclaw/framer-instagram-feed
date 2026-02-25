@@ -3,7 +3,8 @@
   "id": "igfeed",
   "name": "Instagram Feed",
   "description": "Display your Instagram posts on your Framer site",
-  "icon": "instagram",
+  "modes": ["canvas"],
+  "icon": "/icon.svg",
   "categories": ["content", "social"],
   "version": "0.1.0",
   "author": {
