@@ -1,6 +1,6 @@
 {
   "apiVersion": 1,
-  "id": "instagram-feed",
+  "id": "igfeed",
   "name": "Instagram Feed",
   "description": "Display your Instagram posts on your Framer site",
   "icon": "instagram",
